@@ -80,8 +80,8 @@ class HomeController extends Controller
               ([
               'credentials' => array
               (
-                'key'   => 'AKIAITV44WXQR2YQ743Q',
-                'secret'=> '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'
+                'key'   => 
+                'secret'=> 
               ),
               'region'    => 'us-east-1', //北バージニア。アジアリージョン未対応
               'version'   => 'latest'
